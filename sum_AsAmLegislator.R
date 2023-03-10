@@ -63,8 +63,6 @@ cor <- d2_nu %>%
          Asian.voters.or.people,
          Asian.culture,
          Asian.origins) %>% 
-  cor()
-
 cor
 
 # Plot the association 
